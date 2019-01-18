@@ -12,7 +12,7 @@ include(hunter_pick_scheme)
 
 hunter_add_version(
     PACKAGE_NAME rocksdb
-    VERSION 5.17.2.1
+    VERSION 5.17.2.2
     URL "https://github.com/AlexDeveloper24/rocksdb/archive/v5.17.2.2.tar.gz"
     SHA1 "d63107b047e726170851d9edcd54ad935bb44705"
 )
